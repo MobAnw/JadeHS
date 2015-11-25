@@ -1,3 +1,3 @@
 # JadeHS
 
-Hier gibt es nicht nur tollen Quellcode sondern auch tolle änderungen
+Hier gibt es nicht nur tollen Quellcode sondern auch tolle Änderungen
